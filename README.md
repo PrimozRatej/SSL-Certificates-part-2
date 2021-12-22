@@ -28,4 +28,5 @@
 - If we are pinning the rootCA, then the attacker would need a trusted cert from that specific rootCA.
 - If we are pinning leaf cert, we are in both cases protected, but then there is this [question](https://security.stackexchange.com/questions/224246/certficate-pinning-should-i-pin-the-leaf-or-intermediate#:~:text=You%20can%20pin,of%20the%20differences:) (paragraph 3).
 - If we are pinning the whole chain is not really a big difference from when we are pinning the leaf.
+
 **But now we are making our problem to not trust SSL**
