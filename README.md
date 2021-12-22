@@ -1,7 +1,7 @@
 
 # SSL Certificates part 2
 [Part1](https://github.com/PrimozRatej/SSL-Certificates) 
-### So we decided to do pinning of rootCA certificates?
+### So we decided to do pinning of rootCA certificates.
 1. To install false Ce as RootCA to a device, that device needs to be rooted.
 2.  Android emulators already are rooted  [link](https://stackoverflow.com/questions/5095234/how-to-get-root-access-on-android-emulator#:~:text=Please%20note%20that,Chris%20Stratton).
 3.  Look like they are  [2 profiles of emulators](https://stackoverflow.com/questions/53662102/adb-root-command-returns-adbd-cannot-run-as-root-in-production-builds-even-o/53662443#:~:text=I%20checked%20some,for%20more%20information.).
