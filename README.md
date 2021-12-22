@@ -29,4 +29,4 @@
 - If we are pinning leaf cert, we are in both cases protected, but then there is this [question](https://security.stackexchange.com/questions/224246/certficate-pinning-should-i-pin-the-leaf-or-intermediate#:~:text=You%20can%20pin,of%20the%20differences:) (paragraph 3).
 - If we are pinning the whole chain is not really a big difference from when we are pinning the leaf.
 
-**But now we are making our problem to not trust SSL**
+**But now we are making our problem to not [trust SSL](https://stackoverflow.com/questions/585129/why-do-we-trust-ssl-certificates/585140#:~:text=why%20do%20we%20trust%20SSL%20certificates%3F)**
